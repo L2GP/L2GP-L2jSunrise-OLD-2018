@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="login">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/build/dist/login/login.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

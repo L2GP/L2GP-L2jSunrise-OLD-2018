@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/event-engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/java-engine-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/protection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/mmocore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/weupnp-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/jython-engine-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/ecj-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/geoengine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/mysql-connector-java-5.1.34-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/jython.jar!/" />
+      <root url="jar://$PROJECT_DIR$/L2J_SunriseProject_Core/dist/libs/mail-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

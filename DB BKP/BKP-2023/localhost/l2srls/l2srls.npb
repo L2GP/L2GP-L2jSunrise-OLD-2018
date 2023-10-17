@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BackupProfile Ver="1.0">
+  <General ConnectionName="localhost" DatabaseName="l2srls" SchemaName="" Compressed="True" LockAllTables="False" UseSpecifyFileName="False" FileName="" Comments=""/>
+</BackupProfile>
