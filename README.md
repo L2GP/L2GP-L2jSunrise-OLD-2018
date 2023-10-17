@@ -5,7 +5,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ver%20en%20GitHub-blue?style=for-the-badge">
   </a>
   <a href="https://www.java.com/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-8%2B-blue?style=for-the-badge">
+    <img alt="Java 1.8.0_181" src="https://img.shields.io/badge/Java-8%2B-blue?style=for-the-badge">
+  </a>
+<a href="https://www.navicat.com/">
+    <img alt="MySQL 5.1" src="https://img.shields.io/badge/Navicat-Compatible-blue?style=for-the-badge">
   </a>
   <a href="https://www.lineage2.com/">
     <img alt="Lineage 2" src="https://img.shields.io/badge/Lineage%202-Compatible-blue?style=for-the-badge">
@@ -38,16 +41,44 @@ Agrega aquí algunas capturas de pantalla de tu juego o servidor MMORPG:
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 ![Captura de Pantalla 2](screenshots/screenshot2.png)
 
-## Requisitos Update after move
+## Requisitos
 
 Asegúrate de tener instalados los siguientes componentes:
 
-- Servidor web (p. ej., Apache o Nginx)
-- Base de datos (p. ej., MySQL)
-- Java 8 o superior
-- Lineage 2 (para compatibilidad con el juego)
-- Navicat (para administración de la base de datos)
+- Servidor web (p. ej., Apache,Nginx, etc.)
+- Xampp 1.8.3 (para la base de datos)
+- MySql 5.1.73 (para la base de datos)
+- Java 1.8.0_181 (para ejecutar el servidor)
+- Lineage 2 (para cliente del juego)
+- Navicat (para administración de la base de datos y la configuración del servidor)
 - Visual Studio (para desarrollo)
+- Git (para control de versiones)
+- Maven (para gestión de dependencias)
+- JavaFX (para interfaz gráfica de usuario)
+- JavaFX Scene Builder (para diseño de interfaz gráfica de usuario)
+- Eclipse (para desarrollo)
+- IntelliJ IDEA (para desarrollo)
+- Atom (para desarrollo)
+- VS Code (para desarrollo)
+- Sublime Text (para desarrollo)
+- Notepad++ (para desarrollo)
+- Brackets (para desarrollo)
+- NetBeans (para desarrollo)
+- Bluefish (para desarrollo)
+- Geany (para desarrollo)
+- Gedit (para desarrollo)
+- Kate (para desarrollo)
+- Komodo Edit (para desarrollo)
+- Komodo IDE (para desarrollo)
+- Light Table (para desarrollo)
+- Lime Text (para desarrollo)
+- SciTE (para desarrollo)
+- Textadept (para desarrollo)
+- TextMate (para desarrollo)
+- UltraEdit (para desarrollo)
+- VIM (para desarrollo)
+- Visual Studio Code (para desarrollo)
+- Xcode (para desarrollo)
 
 ## Instalación
 
