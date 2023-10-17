@@ -38,7 +38,7 @@ Agrega aquí algunas capturas de pantalla de tu juego o servidor MMORPG:
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 ![Captura de Pantalla 2](screenshots/screenshot2.png)
 
-## Requisitos
+## Requisitos Update after move
 
 Asegúrate de tener instalados los siguientes componentes:
 
